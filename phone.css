@@ -1,0 +1,49 @@
+#home {
+    height: 820px;
+}
+.headings {
+    font-size: 1.7rem;
+}
+/*ABOUT ME MOBILE Poverenov */
+#pic img {
+    width: 300px;
+    height: 250px;
+}
+#intro h2 {
+    font-size: 1.5rem;
+}
+.navbar ul li { /*PADDING IT TO UL LI PHONE POVIRIENOV*/
+    padding: 15px;
+  
+}
+/*PORTFOLIO SECTION*/
+.gallery img {
+    width: 275px;
+    height: 155px;
+    margin: 10px;
+}
+/*CONTACT*/
+.input {
+   width: 80%; 
+}
+#msg {
+    width: 70%;
+}
+#send {
+    width: 20%;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+    width: 450px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 15px;
+    background: linear-gradient(to top, rgb(16, 16, 20) 50%, white ) ;
+    background-size: 100% 200%;
+    transition: all .8s;
+}

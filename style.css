@@ -148,6 +148,7 @@ btn:hover {
     font-size: 2rem;
     margin-bottom: 50px;
 }
+
 p {
     text-align: justify;
 }
@@ -172,6 +173,7 @@ p {
     justify-content: space-around;
     box-sizing: border-box;
 }
+
 .gallery img {
     width: 347px;
     height: 240px;
@@ -191,9 +193,8 @@ p {
     justify-content: space-around;
     flex-wrap: wrap;
     box-sizing: border-box;
-    
+    color: white;
 }
-
 
 .box {
     display: flex;
@@ -206,7 +207,7 @@ p {
     text-align: justify;
     padding: 10px;
     border-radius: 15px;
-    background: linear-gradient(to top, rgb(16, 16, 20) 50%, white ) ;
+    background: linear-gradient(to top, rgb(16, 10, 40) 70%, white ) ;
     background-size: 100% 200%;
     transition: all .8s;
 }

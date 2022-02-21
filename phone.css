@@ -4,18 +4,17 @@
 }
 
 .headings {
-    font-size: 1.7rem;
+    font-size: 34px;
 }
 /*ABOUT ME MOBILE Poverenov */
 #pic img {
     width: 323px;
-    height: 385px;
-    /* margin: -50px; */
 }
 
 #intro {
     font-size: 16px;
 }
+
 .navbar ul li { /*PADDING IT TO UL LI PHONE POVIRIENOV*/
     padding: 15px;
 }
@@ -26,6 +25,7 @@
     height: 270px;
     margin: 10px;
 }
+
 /*CONTACT*/
 .input {
    width: 80%; 
@@ -34,6 +34,7 @@
 #msg {
     width: 80%;
 }
+
 #send {
     width: 20%;
 }

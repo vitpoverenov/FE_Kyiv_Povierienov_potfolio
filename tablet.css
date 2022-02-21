@@ -3,9 +3,6 @@
     flex-wrap: wrap;
     justify-content: center;
 }
-
-
-
 /*HEADJNGS*/
 .headings {
     font-size: 2.5rem;
@@ -14,22 +11,22 @@
 #pic {
     flex-direction: column;
     align-items: center;
-    }
+}
 
 #pic img {
-    width: 475px;
-    height: 300px;
+    width: 504px;
+    height: 458px;
 }
-#intro h2 {
+#intro  {
     text-align: center;
-    padding: 10px;
+    font-size: 24px;
 }
 .input {
     width: 60%;
 }
 
 #msg {
-    width: 55%;
+    width: 60%;
 }
 
 #send {
